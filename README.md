@@ -19,6 +19,6 @@ I have a function that seems to correctly calculate the behavior I'm looking for
 
 However, vertical motion isn't behaving as I expected. Any motion towards the reference view's top causes the object to accelerate faster.
 
-I've been playing with trigonometry for a while, but I'm stumped. There's an example swift playground on GitHub demonstrating this problem.
+I've been playing with trigonometry for a while, but I'm stumped.
 
-What am I overlooking in my math?
+[Stack Overflow Question](https://stackoverflow.com/q/50439223/1202880)
